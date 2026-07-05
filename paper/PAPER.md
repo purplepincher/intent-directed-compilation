@@ -285,4 +285,4 @@ Intent-directed compilation achieves 3.17× speedup for constraint checking by u
 
 ---
 
-*Source code and reproducible benchmarks: github.com/SuperInstance/polyformalism-thinking/tree/main/research*
+*Source code and reproducible benchmarks: github.com/purplepincher/intent-directed-compilation*
